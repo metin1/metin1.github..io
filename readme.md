@@ -1,8 +1,7 @@
 
 # Welcome My Github Page
 
-> My name is Metin İŞCAN, I am Full Stack Developer and I have 3+ years experince,
-
+My name is Metin İŞCAN, I am Full Stack Developer and I have 3+ years experince,
 > Updated at 13 July 2021
 
 ###React
