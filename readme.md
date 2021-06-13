@@ -1,8 +1,8 @@
 
 # Welcome My Github Page
+> Updated at 13 July 2021
 
 My name is Metin İŞCAN, I am Full Stack Developer and I have 3+ years experince,
-> Updated at 13 July 2021
 
 ###React
 I had work with MERN (MongoDb, ExpressJs, React and NodeJS). I like to use React functional componenets and React Hooks.
